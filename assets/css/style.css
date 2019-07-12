@@ -1,0 +1,41 @@
+/* ADMIN ====================== */
+
+.sidebeer__input {
+    margin-bottom: 16px;
+}
+
+.sidebeer__input input {
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 3px;
+    width: 300px;
+    border: none;
+    margin-right: 6px;
+}
+
+.sidebeer__remove {
+    padding: 10px;
+    font-size: 18px;
+    width: 20px;
+    background: rgb(227, 13, 13);
+    color: #fff;
+    cursor: pointer;
+    border-radius: 3px;
+    display: inline-block;
+    text-align: center;
+}
+
+.sidebeer__add {
+    padding: 10px;
+    font-size: 18px;
+    width: 20px;
+    background: rgb(5, 104, 43);
+    color: #fff;
+    cursor: pointer;
+    border-radius: 3px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+
